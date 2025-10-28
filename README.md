@@ -1,5 +1,5 @@
 # Team-06
-Smart HealthCare Assistance
+Smart HealthCare Assistance Tasks
 
 [Task-03](https://github.com/sankalpkunthe/Team-06/tree/Task3)
 
